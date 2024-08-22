@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "be.eloistree.quickgitutility": {
+      "version": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3d64cd2df6a030ba276688537aa47b913e5df370"
+    },
+    "be.eloistree.unitypackagefacilitator": {
+      "version": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "51dbea1b5d7ab38634e6bb598e29d0afcd81945e"
+    },
     "com.unity.burst": {
       "version": "1.8.17",
       "depth": 1,
